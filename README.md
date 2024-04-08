@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Machine learning,Deep Learning,Computer vision**
 
-- 🌱 I’m currently learning **Google Advance Data Analytics course**
+- 🌱 I’m currently learning **Machine Leaning Deployment**
 
 - 👯 I’m looking to collaborate on **Research Publication**
 
